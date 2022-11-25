@@ -1,0 +1,2 @@
+# argocd-lab
+argocd test
